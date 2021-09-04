@@ -1,0 +1,11 @@
+html,
+body {
+  margin: 0;
+}
+
+.box {
+  background-color: black;
+  height: 100vh;
+  text-align: center;
+  padding: auto;
+}
